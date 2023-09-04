@@ -1,8 +1,17 @@
 
 [
   {
+    "companyName": "Tarkim Bitki Koruma San. ve Tic. A.Ş.",
+    "bistCode": "TARKM",
+    "ipoPrice": 107,50,
+    "ipoStartDate": "2023-09-05",
+    "ipoEndDate": "2023-09-06",
+    "shareCount": 5000000
+  },
+  {
     "companyName": "Gıpta Ofis Kırtasiye ve Promosyon Ürünleri İmalat San. A.Ş.",
     "bistCode": "GIPTA",
+    "ipoPrice": 20.90,
     "ipoStartDate": "2023-09-06",
     "ipoEndDate": "2023-09-08",
     "shareCount": 40000000
