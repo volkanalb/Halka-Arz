@@ -5,7 +5,7 @@ Halka arz detaylarını json formatında bulabileceğiniz bir repo
 # Arz.json
 
 | Attempt | Status    | 
-| :-----: | :---: | 
+| :-----: | :--- | 
 | GIPTA | Approved | 
 | TARKM | Approved | 
 | EBEBK | Approved | 
