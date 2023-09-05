@@ -1,19 +1,38 @@
-
 [
-  {
-    "companyName": "Tarkim Bitki Koruma San. ve Tic. A.Ş.",
-    "bistCode": "TARKM",
-    "ipoPrice": 107.50,
-    "ipoStartDate": "2023-09-05",
-    "ipoEndDate": "2023-09-06",
-    "shareCount": 5000000
-  },
   {
     "companyName": "Gıpta Ofis Kırtasiye ve Promosyon Ürünleri İmalat San. A.Ş.",
     "bistCode": "GIPTA",
     "ipoPrice": 20.90,
     "ipoStartDate": "2023-09-06",
     "ipoEndDate": "2023-09-08",
-    "shareCount": 40000000
+    "shareCount": 40000000,
+    "bistListingDate": "2023-09-14"
+  },
+  {
+    "companyName": "Tarkim Bitki Koruma San. ve Tic. A.Ş.",
+    "bistCode": "TARKM",
+    "ipoPrice": 107.50,
+    "ipoStartDate": "2023-09-05",
+    "ipoEndDate": "2023-09-06",
+    "shareCount": 5000000,
+    "bistListingDate": "2023-09-12"
+  },
+  {
+    "companyName": "Ebebek Mağazacılık A.Ş.",
+    "bistCode": "EBEBK",
+    "ipoPrice": 46.50,
+    "ipoStartDate": "2023-08-29",
+    "ipoEndDate": "2023-09-01",
+    "shareCount": 40000000,
+    "bistListingDate": "2023-09-07"
+  },
+  {
+    "companyName": "Kuzugrup Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "bistCode": "KZGYO",
+    "ipoPrice": 20.76,
+    "ipoStartDate": "2023-08-21",
+    "ipoEndDate": "2023-08-23",
+    "shareCount": 50000000,
+    "bistListingDate": "2023-08-29"
   }
 ]
