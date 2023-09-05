@@ -1,12 +1,23 @@
 [
   {
+    "companyName": "Mega Teks Tekstil Ürünleri İmalat San. ve Tic. A.Ş.",
+    "bistCode": "",
+    "ipoPrice": 0,
+    "ipoStartDate": "",
+    "ipoEndDate": "",
+    "shareCount": 0,
+    "bistListingDate": "",
+    "status": "draft"
+  },
+  {
     "companyName": "Gıpta Ofis Kırtasiye ve Promosyon Ürünleri İmalat San. A.Ş.",
     "bistCode": "GIPTA",
     "ipoPrice": 20.90,
     "ipoStartDate": "2023-09-06",
     "ipoEndDate": "2023-09-08",
     "shareCount": 40000000,
-    "bistListingDate": "2023-09-14"
+    "bistListingDate": "2023-09-14",
+    "status": "approved"
   },
   {
     "companyName": "Tarkim Bitki Koruma San. ve Tic. A.Ş.",
@@ -15,7 +26,8 @@
     "ipoStartDate": "2023-09-05",
     "ipoEndDate": "2023-09-06",
     "shareCount": 5000000,
-    "bistListingDate": "2023-09-12"
+    "bistListingDate": "2023-09-12",
+    "status": "approved"
   },
   {
     "companyName": "Ebebek Mağazacılık A.Ş.",
@@ -24,7 +36,8 @@
     "ipoStartDate": "2023-08-29",
     "ipoEndDate": "2023-09-01",
     "shareCount": 40000000,
-    "bistListingDate": "2023-09-07"
+    "bistListingDate": "2023-09-07",
+    "status": "approved"
   },
   {
     "companyName": "Kuzugrup Gayrimenkul Yatırım Ortaklığı A.Ş.",
@@ -33,6 +46,7 @@
     "ipoStartDate": "2023-08-21",
     "ipoEndDate": "2023-08-23",
     "shareCount": 50000000,
-    "bistListingDate": "2023-08-29"
+    "bistListingDate": "2023-08-29",
+    "status": "approved"
   }
 ]
